@@ -2,3 +2,10 @@
 
 - 유니티 에디터 로그 : https://raw.githubusercontent.com/plotrick/zpt_study/main/pinokio/20220914/unity.log
 - World.multiplay/index.ts : https://raw.githubusercontent.com/plotrick/zpt_study/main/pinokio/20220914/index.ts
+
+----
+
+1. 서버사이드 코드를 이제 막 작성한 상황이고 기존에는 클라이언트 코드만 작업했었습니다. 서버사이드 코드도 현재는 아무런 구현을 하지 않았습니다.
+2. Schema 세팅 상태는 첨부한 스크린샷과 같습니다. (링크해주신 것과 동일한 가이드 문서에 따라 작업했습니다.)
+3. 가이드 문서들을 다 읽었다고 생각했는데, 제가 빼먹은 부분이 있을지도 모르겠습니다. 혹시 'Schema 세팅'과 별개로 'state 세팅'이 필요한 것인지요?
+4. 아직 QR 코드를 이용한 테스트는 해본 적이 없습니다. 상기 에러는 유니티 에디터 상에서 발생한 것입니다.
